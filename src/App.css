@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.profile {
+  margin-top: 20px;
+}
+
+.profile img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.time {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: gray;
+}
